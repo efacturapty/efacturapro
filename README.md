@@ -8,7 +8,7 @@ Para utilizar **efacturapro** debe contar con una cuenta de **efacturapty**, la 
 
 # Instalación y configuración
 
-1. Descargue el zip de [efacturapro Release v1.0.0](https://github.com/efacturapty/efacturapro/releases/tag/v1.0.0) y descomprima en una carpeta local.
+1. Descargue el zip de [efacturapro Release v1.0.0](https://github.com/efacturapty/efacturapro/releases/tag/v1.0.1) y descomprima en una carpeta local.
 2. Copie el certificado de firma electrónica en una carpeta local. El certificado de firma es el que posee la letra "F" al inicio del nombre del archivo.
 3. Edite el archivo appsetting.json para configurar los siguientes valores:
 
